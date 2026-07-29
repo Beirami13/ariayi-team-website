@@ -1,0 +1,7 @@
+assets/js/* linguist-vendored
+assets/css/* linguist-vendored
+static/js/* linguist-vendored
+static/css/* linguist-vendored
+*.min.js linguist-vendored
+*.min.css linguist-vendored
+*.map linguist-vendored
